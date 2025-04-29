@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"file to link",
+  "csv_url":"https://github.com/black11-bot/fsub.git",
+  "git_remote":"git@github.com:black11-bot/FileToLink.git"
+}
